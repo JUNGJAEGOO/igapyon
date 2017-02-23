@@ -7,7 +7,7 @@ This file is settings for [[igapyonv3]].
 ${setVerbose("true")}
 ${setDebug("false")}
 ${setGeneratetodaydiary("true")}
-${setDuplicatefakehtmlmd("false")}
+${setDuplicatefakehtmlmd("true")}
 ${setConvertmarkdown2html("true")}
 ${setAuthor("Test Author's name.")}
 ${setBaseurl("https://igapyon.github.io/diary")}
