@@ -10,8 +10,8 @@ ${setGeneratetodaydiary("true")}
 ${setDuplicatefakehtmlmd("true")}
 ${setConvertmarkdown2html("true")}
 ${setAuthor("Test Author's name.")}
-${setBaseurl("https://igapyon.github.io/diary")}
-${setSourcebaseurl("https://github.com/igapyon/diary/blob/gh-pages")}
+${setBaseurl("https://igapyon.github.io/mydiary")}
+${setSourcebaseurl("https://github.com/igapyon/mydiary/blob/gh-pages")}
 ${setGeneratekeywordifneeded("true")}
 
 ### Setting: inittemplate
