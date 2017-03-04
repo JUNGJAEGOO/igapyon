@@ -11,7 +11,7 @@ ${setDuplicatefakehtmlmd("true")}
 ${setConvertmarkdown2html("true")}
 ${setAuthor("Test Author's name.")}
 ${setBaseurl("https://igapyon.github.io/mydiary")}
-${setSourcebaseurl("https://github.com/igapyon/mydiary/blob/gh-pages")}
+${setSourcebaseurl("https://github.com/igapyon/mydiary/blob/master")}
 ${setGeneratekeywordifneeded("true")}
 
 ### Setting: inittemplate

@@ -1,4 +1,4 @@
-[top](index.html) / [index](index.html) / [target](https://igapyon.github.io/mydiary/idxall.html) / [source](https://github.com/igapyon/mydiary/blob/gh-pages/idxall.src.md) 
+[top](index.html) / [index](index.html) / [target](https://igapyon.github.io/mydiary/idxall.html) / [source](https://github.com/igapyon/mydiary/blob/master/idxall.src.md) 
 
 Watashi's diary: all
 =====================================================================================================

@@ -1,4 +1,4 @@
-[top](../index.html) / [index](index.html) / [target](https://igapyon.github.io/mydiary/2017/index.html) / [source](https://github.com/igapyon/mydiary/blob/gh-pages/2017/index.src.md) 
+[top](../index.html) / [index](index.html) / [target](https://igapyon.github.io/mydiary/2017/index.html) / [source](https://github.com/igapyon/mydiary/blob/master/2017/index.src.md) 
 
 Watashi's diary: diary of 2017
 =====================================================================================================

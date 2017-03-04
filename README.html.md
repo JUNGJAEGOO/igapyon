@@ -1,4 +1,4 @@
-[top](index.html) / [index](index.html) / [target](https://igapyon.github.io/mydiary/README.html) / [source](https://github.com/igapyon/mydiary/blob/gh-pages/README.src.md) 
+[top](index.html) / [index](index.html) / [target](https://igapyon.github.io/mydiary/README.html) / [source](https://github.com/igapyon/mydiary/blob/master/README.src.md) 
 
 Watashi's diary: top
 =====================================================================================================
