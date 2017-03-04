@@ -2,6 +2,10 @@
 
 This file is settings for [[igapyonv3]].
 
+### Result
+
+${showSettings()}
+
 ### Setting
 
 ${setVerbose("true")}
@@ -18,6 +22,3 @@ ${setGeneratekeywordifneeded("true")}
 
 ${setSitetitle("Watashi's diary")}
 
-### Result
-
-${showSettings()}

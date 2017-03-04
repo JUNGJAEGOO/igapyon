@@ -8,6 +8,19 @@ Watashi's diary
 
 This file is settings for [[igapyonv3]].
 
+### Result
+
+* verbose: true
+* debug: false
+* baseurl: https://igapyon.github.io/mydiary
+* sourcebaseurl: https://github.com/igapyon/mydiary/blob/master
+* author: Test Author's name.
+* generatetodaydiary: true
+* convertmarkdown2html: true
+* duplicatefakehtmlmd: true
+* generatekeywordifneeded: true
+* sitetitle: Watashi's diary
+
 ### Setting
 
 
@@ -23,19 +36,6 @@ This file is settings for [[igapyonv3]].
 ### Setting: inittemplate
 
 
-
-### Result
-
-* verbose: true
-* debug: false
-* baseurl: https://igapyon.github.io/mydiary
-* sourcebaseurl: https://github.com/igapyon/mydiary/blob/master
-* author: Test Author's name.
-* generatetodaydiary: true
-* convertmarkdown2html: true
-* duplicatefakehtmlmd: true
-* generatekeywordifneeded: true
-* sitetitle: Watashi's diary
 
 ----------------------------------------------------------------------------------------------------
 
