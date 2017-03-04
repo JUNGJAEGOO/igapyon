@@ -28,8 +28,8 @@ This file is settings for [[igapyonv3]].
 
 * verbose: true
 * debug: false
-* baseurl: [https://igapyon.github.io/mydiary](https://igapyon.github.io/mydiary)
-* sourcebaseurl: [https://github.com/igapy...ob/gh-pages](https://github.com/igapyon/mydiary/blob/gh-pages)
+* baseurl: https://igapyon.github.io/mydiary
+* sourcebaseurl: https://github.com/igapyon/mydiary/blob/gh-pages
 * author: Test Author's name.
 * generatetodaydiary: true
 * convertmarkdown2html: true
