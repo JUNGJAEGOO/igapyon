@@ -10,8 +10,8 @@ Watashi's diary
 
 ## Watashi's diary: diary of 2017
 
-* [2017-03-04 diary: Diary title here](ig170304.html)
-* [2017-02-23 diary: Diary title here](ig170223.html)
+* [2017-03-04 diary: Update igapyonv3 version](ig170304.html)
+* [2017-02-23 diary: Simple sample for igapyonv3](ig170223.html)
 
 
 ----------------------------------------------------------------------------------------------------

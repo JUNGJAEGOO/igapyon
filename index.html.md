@@ -12,8 +12,8 @@ Watashi's diary
 
 ### Recent diary ([Feed](https://igapyon.github.io/mydiary/atomRecent.xml))
 
-* [2017-03-04 diary: Diary title here](2017/ig170304.html)
-* [2017-02-23 diary: Diary title here](2017/ig170223.html)
+* [2017-03-04 diary: Update igapyonv3 version](2017/ig170304.html)
+* [2017-02-23 diary: Simple sample for igapyonv3](2017/ig170223.html)
 
 
 ----------------------------------------------------------------------------------------------------
